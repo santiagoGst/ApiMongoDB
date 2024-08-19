@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e23pndMTSPavmLHwOH1cesXdevlrDIRGxJq0f4xQXpY=",
+  "Source": "ApiMongoDB",
+  "BasePath": "_content/ApiMongoDB",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
